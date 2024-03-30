@@ -1,0 +1,22 @@
+Front page layout
+Site theme
+
+Jeremy Reimer
+    -    Nov 8, 2005 2:00 am UTC
+
+The gaming industry has come a long way since its humble beginnings more than thirty years ago. From a time when people were thrilled to see a square white block and two rectangular paddles on the screen to today, where gamers explore realistic three-dimensional worlds in high resolution with surround sound, the experience of being a gamer has changed radically.
+The experience of being a game developer has changed even more. In the early 1980s, it was typical for a single programmer to work on a title for a few months, doing all the coding, drawing all the graphics, creating all the music and sound effects, and even doing the majority of the testing. Contrast this to today, where game development teams can have over a hundred full-time people, including not only dozens of programmers, artists and level designers, but equally large teams for quality assurance, support, and marketing.
+The next generation of consoles will only increase this trend. Game companies will have to hire more artists to generate more detailed content, add more programmers to optimize for more complex hardware, and even require larger budgets for promotion. What is this likely to mean for the industry?
+This article makes the following predictions:
+All other market factors aside, the platform most likely to benefit from this situation is the Revolution, since it has the simplest architectural design. The PC, often thought to be a gaming platform on the decline, may also benefit. Conversely, the platforms that may be hurt the most by this are the PlayStation 3 and the XBox 360, as they may find it difficult to "stand out" against the competition.
+These are bold statements, and I don't expect it to make it without at least attempting to back it up with a more detailed argument, nor do I expect it to go unchallenged. In fact, I reserved a section at the end of the article where I describe all the problems I could find with my theory. So the fullness of my argument can best be understood by reading through to the conclusion and would encourage readers to do that prior to engaging in conversation in the discussion thread.
+I should also add that I fully expect all three next-generation platforms and also the gaming PC to survive and do reasonably well. The console wars will require at least another round after the next one before they have any sort of resolution. Ultimately, platforms themselves may reach a point where they no longer matter, as most content will be available on every gaming device. Our grandchildren may look at us strangely when we recall the intense and urgent battles between Atari and Intellivision, Nintendo and Sega, and Microsoft and Sony. At least we will have the satisfaction of knowing that we lived through the period when gaming went through some of its greatest advances.
+ Download the PDF (This feature for Premier subscribers only.) 
+
+  CNMN Collection
+  WIRED Media Group
+  © 2024 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 1/1/20) and Privacy Policy and Cookie Statement (updated 1/1/20) and Ars Technica Addendum (effective 8/21/2018). Ars may earn compensation on sales from links on this site. Read our affiliate link policy.
+Your California Privacy Rights |  Do Not Sell My Personal Information
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices
+
