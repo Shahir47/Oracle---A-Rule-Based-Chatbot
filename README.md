@@ -1,11 +1,13 @@
 # Oracle-A-Rule-Based-Chatbot
 
+```bash
    ██████╗ ██████╗  █████╗  ██████╗██╗     ███████╗
   ██╔═══██╗██╔══██╗██╔══██╗██╔════╝██║     ██╔════╝
   ██║   ██║██████╔╝███████║██║     ██║     █████╗  
   ██║   ██║██╔══██╗██╔══██║██║     ██║     ██╔══╝  
   ╚██████╔╝██║  ██║██║  ██║╚██████╗███████╗███████╗
    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚══════╝╚══════╝
+```
 
 The topic for the Chabot is “Video Games”. The bot is called Oracle. It talks about various video games, will share with you its favorite video game/ will talk on associated topics. It can also play game (rock paper scissor) with you. Moreover, it can remember user information. System information used to develop the bot:
 * Python version: 3.11.5
