@@ -15,3 +15,9 @@ To run the ChatBot we only requires the following files:
 * Files > ChatBot Files > user_info.p
 
 After all the required paths are set properly in the code, run the `ChatBot > chatbot.py`
+
+![ChatBot ScreenShot_1](https://github.com/Shahir47/Oracle-A-Rule-Based-Chatbot/blob/main/SS/chatbot1.png)
+
+![ChatBot ScreenShot_2](https://github.com/Shahir47/Oracle-A-Rule-Based-Chatbot/blob/main/SS/chatbot2.png)
+
+![ChatBot_ScreenShot_3](https://github.com/Shahir47/Oracle-A-Rule-Based-Chatbot/blob/main/SS/chatbot3.png)
